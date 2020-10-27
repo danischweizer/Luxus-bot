@@ -1,0 +1,19 @@
+{
+  "name": "Luxus bot",
+  "version": "Any",
+  "description": "Bot Luxus Roleplay",
+  "main": "funcs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muZk/pinericosas.git"
+  },
+  "author": "Daniela, Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "Proximamente"
+  },
+  "homepage": "Proximamente"
+}
